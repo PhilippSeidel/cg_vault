@@ -8,4 +8,4 @@
 - k ist die am Bildschirm reflektierte Helligkeit
 ![](dynamikumfang.png)
 
-![](Gammakorrektur)
+![](Gammakorrektur.md)

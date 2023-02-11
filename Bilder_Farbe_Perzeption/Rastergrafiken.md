@@ -19,4 +19,4 @@ Historisch: Auswahl von 256 Farben, Nachbildung aller restlichen durch dithering
 
 
 
-![](Transferfunktion)
+![](Transferfunktion.md)
