@@ -1,5 +1,5 @@
 ![transferfunktion](transferfunktion.png)
-### Was das?
+### Was ist das?
 - Funktion von Wert nach Helligkeit (I_min, I_max)
 - I_min und I_max hängen von Display ab
 
@@ -8,4 +8,13 @@
 - k ist die am Bildschirm reflektierte Helligkeit
 ![](dynamikumfang.png)
 
-![](Gammakorrektur)
+Die [[Gammakorrektur]] ist eine mögliche Quantisierung für die Transferfunktion.
+Allerdings ist die Transferfunktion ein allgemeineres Konzept.
+
+### Wie findet man die "perfekte" Transferfunktion?
+
+Idealerweise sollen die aufeinanderfolgenden Helligkeitsabstufungen nicht sichtbar sein.
+Helligkeitsschritte von 1%  bis 2% können gerade so wahrgenommen werden:
+
+![](just_noticeable_difference.png)
+

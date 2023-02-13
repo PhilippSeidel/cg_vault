@@ -19,7 +19,11 @@ Beispiel: Wie bestimmt man den Gamma-Wert bei bekanntem Pixel-Wert und bekannter
 ![](determine_gamma_example.png)
 
 Die Werte aus dem Framebuffer werden dann mit einer sogenannten Transferfunktion auf die entsprechenden Intensitäten abgebildet:
-[[Transferfunktion]]
+[[Transferfunktion]] 
+Diese macht dann auch die Quantisierung.
+Das ergibt Sinn schaut man sich die Bildmenge der Transferfunktion an.
+Sie ist das Intervall $[I_{max}$, $I_{min}]$ und keine prozentuale Angabe wie $I(n) \in [0,1]$.
 
+## Quantisierung
 
-
+Die Intensität I(n) ist eine prozentuale Angabe. Die Quantisierung bildet I(n) auf einen absoluten Pixelwert in der Skala der Bildschirms ab, indem I(n) mit der (absoluten) maximalen Intensität des Bildschirms I_max multipliziert wird.
