@@ -1,7 +1,7 @@
 ![transferfunktion](transferfunktion.png)
 ### Was ist das?
 - Funktion von Wert nach Helligkeit (I_min, I_max)
-- I_min und I_max hängen von Display ab
+- $I_{min}$ und I_max hängen von Display ab
 
 ### Dynamikumfang
 - Beschreibt erreichbaren Kontrast
@@ -18,3 +18,4 @@ Helligkeitsschritte von 1%  bis 2% können gerade so wahrgenommen werden:
 
 ![](just_noticeable_difference.png)
 
+[Gammakorrektur.md]
