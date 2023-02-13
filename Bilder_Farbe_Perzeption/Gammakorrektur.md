@@ -31,3 +31,4 @@ Die Intensität I(n) ist eine prozentuale Angabe. Die Quantisierung bildet I(n) 
 ## Gammakorrektur bei der Speicherung von Bildern.
 
 Manchmal werden Bilder gammakorrigiert gespeichert. Um sie dann anzuzeigen muss man die Pixel-Werte zuerst wieder in lineare Werte überführen und dann die Gammakorrektur für den Bildschirm machen.
+
