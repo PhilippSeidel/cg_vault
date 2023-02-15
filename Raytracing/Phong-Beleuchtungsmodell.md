@@ -1,0 +1,4 @@
+- Modelliert Reflektion in drei Komponenten
+	- ambient: indirekte Beleuchtung, Licht von anderen Oberflächen
+	- diffus: nach dem Lambertschen Gesetz ([[Lambertsche Reflektion]])
+	- spekular: imperfekte Spiegelung ([[Spekulare Reflektion]])
