@@ -1,3 +1,5 @@
+Koordinatensysteme zur beschreibung von Farben.
+
 ## RGB - Farbraum
 - Biologisch und technisch motiviert
 **R** : Rot

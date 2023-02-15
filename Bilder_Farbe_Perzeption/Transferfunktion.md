@@ -1,3 +1,5 @@
+Wie komme ich von einem Wert im Rechner zu einer Helligkeit?
+
 ![transferfunktion](transferfunktion.png)
 ### Was ist das?
 - Funktion von Wert nach Helligkeit (I_min, I_max)

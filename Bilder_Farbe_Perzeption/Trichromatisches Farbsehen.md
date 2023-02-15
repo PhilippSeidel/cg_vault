@@ -1,3 +1,5 @@
+Menschen können Farben sehen die aus drei Grundfarben zusammengesetzt sind.
+
 - perzeptuelle Anwort auf Licht unterschiedlicher Wellenlänge
 ![](perzeptuelleAntwort.png)
 

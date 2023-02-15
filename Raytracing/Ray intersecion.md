@@ -1,3 +1,4 @@
+Strahlen können Objekte schneiden. Damit das auch richtig funktioniert muss man diese Schnitte berechnen können.
 
 - Für implizite Geometriedarstellung (siehe [[Mathe Grundlagen]]) muss in die definition der Geometrie die Strahlengleichung eingesetzt werden, dann auflösen
 - Für Dreiecke zwei Möglichkeiten:

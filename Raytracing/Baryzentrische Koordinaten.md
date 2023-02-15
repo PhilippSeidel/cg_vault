@@ -1,4 +1,4 @@
-- Wenn ein Punkt Q durch linaerkombination von Basispunkten $P_i$ dargestellt werden kann dann bezeichnet man die Koeffizienten $\lambda_i$ als die baryzentrischen Koordinaten von Q bzgl. $P_i$
+Wenn ein Punkt Q durch linearkombination von Basispunkten $P_i$ dargestellt werden kann dann bezeichnet man die Koeffizienten $\lambda_i$ als die baryzentrischen Koordinaten von Q bzgl. $P_i$. (Im Endeffekt ein Basiswechsel)
 ![](baryzentrische_koordianten.png)
 
 - Können zur Linaeren interpolation verwendet werden

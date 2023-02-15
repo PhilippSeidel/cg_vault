@@ -1,3 +1,5 @@
+Wenn man Strahlen durch die Gegend ballern will braucht man erstmal ein paar Strahlen. Zum Glück kann man die ganz leicht konstruieren.
+
 - Definiere Virtuelle Kamera durch
 	- Position e
 	- Zielpunkt z

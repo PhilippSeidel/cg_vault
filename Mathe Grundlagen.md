@@ -22,3 +22,7 @@
 	mit
 	![](cramersche3.png)
 
+
+
+##### Related
+[[Baryzentrische Koordinaten]]
