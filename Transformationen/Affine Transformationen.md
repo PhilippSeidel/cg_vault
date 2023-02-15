@@ -13,4 +13,4 @@ Damit kann man die gleiche Matrix für sowohl Richtungsvektoren, als auch für O
 
 ![](vector_homogen_transform.png)
 
-**Normalen** können auf diese Weise allerdings **nicht** transformiert werden. Für sie benötigt man andere Methoden.
+**Normalen** können auf diese Weise allerdings **nicht** transformiert werden. Für sie benötigt man [[Transformation von Normalen|andere Methoden]].
