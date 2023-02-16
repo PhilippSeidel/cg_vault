@@ -16,3 +16,5 @@ Verfolge Strahl durch jeden Pixel des Bildes
 
 #### Related
 [[Mathe Grundlagen]]
+[[Supersampling]]
+[[Distributed Raytracing]]

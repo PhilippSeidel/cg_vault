@@ -22,7 +22,9 @@
 	mit
 	![](cramersche3.png)
 
-
+![[Monte Carlo-Integration]]
 
 ##### Related
 [[Baryzentrische Koordinaten]]
+[[Rotationen]]
+[[Transformation von Normalen]]
