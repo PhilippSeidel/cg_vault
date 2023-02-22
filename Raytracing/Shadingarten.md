@@ -1,4 +1,4 @@
-Welche normalen sollte man für die Beleuchtungsberechnung verwenden?
+Welche Normalen sollte man für die Beleuchtungsberechnung verwenden?
 
 #### Flat Shading
 - Verwende die Dreiecksnormale für Beleuchtung
