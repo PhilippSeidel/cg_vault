@@ -18,3 +18,5 @@ Hüllkörper können überlappen --> kann zusätzliche Tests nötig machen
 Aufbau hat Laufzeit in $O(n log(n))$, kann aber auf $O(nlog^2(n))$ beschleunigt werden wenn die AABBs in zwei etwa gleich große Gruppen geteilt werden und eine $O(nlog(n))$ Sortierung verwendet wird
 
 
+### Related
+[[Parallele Konstruktion räumlicher Datenstrukturen]]

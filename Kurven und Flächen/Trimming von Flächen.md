@@ -1,0 +1,2 @@
+Nachdem man Flächen erzeugt hat (z.b. mittels [[Tensorprodukt-Bezier-Flächen]]) will man aus diesen Stücke herausschneiden weil man nur Teilstücke davon braucht.
+Lege dazu eine Menge von Konturen fest und bestimme mittels des [[Odd-Even-Test|Odd-Even-Tests]] ob ein Punkt innerhalb oder außerhalb liegt.

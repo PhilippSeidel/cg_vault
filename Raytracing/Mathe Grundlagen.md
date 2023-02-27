@@ -28,3 +28,5 @@
 [[Baryzentrische Koordinaten]]
 [[Rotationen]]
 [[Transformation von Normalen]]
+[[Basiswechsel]]
+[[Projektionen]]
