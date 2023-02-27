@@ -13,3 +13,6 @@ Einige dieser Stufen sind (voll oder teilweise) programmierbar. Andere können n
 - [[Vertex Shader]] (Geometrieverarbeitung)
 - [[Tesselation Shader]] (Geometrieverarbeitung)
 - [[Geometry Shader]] (Geometrieverarbeitung)
+- [[Fragment Shader]] (Fragmentverarbeitung)
+
+Jeder Shader kann lesend/schreibend auf die Puffer im GPU Memory zugreifen, aber **nicht** auf den Frame Buffer
