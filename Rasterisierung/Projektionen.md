@@ -8,7 +8,7 @@ Es gibt zwei Arten von Projektionen:
 
 ### Orthographische Projektion
 
-Bei der orthographischen Projektion wird davon ausgegangen, dass die Koordinaten aller Objekte in Kamerakoordinaten vorliegen. Dabei zeigt die x-Achse nach rechts, die y-Achse nach oben und die z-Achse in die negative Blickrichtung.
+Bei der orthographischen Projektion wird davon ausgegangen, dass die Koordinaten aller Objekte in **[[Wichtige Koordinatensysteme und Transformationen dazwischen|Kamerakoordinaten]]** vorliegen. Dabei zeigt die x-Achse nach rechts, die y-Achse nach oben und die z-Achse in die negative Blickrichtung.
 
 Die Bildebene ist parallel zur xy-Ebene => orthogonal zu z-Ebene.
 

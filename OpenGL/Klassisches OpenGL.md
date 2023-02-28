@@ -21,7 +21,7 @@ Das anschließende Clipping und die Rasterisierung geschehen ohne eigenes Zutun.
 
 ### Shading
 
-Das Shading findet in **Kamerakoordinaten** statt.
+Das Shading findet in **[[Wichtige Koordinatensysteme und Transformationen dazwischen|Kamerakoordinaten]]** statt.
 
 Es gibt folgende Shading-Arten in klassischem OpenGL:
 - Flat-Shading: Das ist Shading pro Vertex/Fragment mit **Dreiecks-Normale**

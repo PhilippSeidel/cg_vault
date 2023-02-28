@@ -9,7 +9,7 @@ Beim Clipping mit einer perspektivischen Projektion darf das Clipping **nicht** 
 Es gibt mehrere Optionen wann man Clipping anwenden kann:
 
 1. Vor der Projektionstransformation.
-   In diesem Fall findet das Clipping gegen das View Frustum in Welt - oder Kamerakoordinaten statt. Man würde die Sichtpyramide mit seches Ebenengleichungen beschreiben und diese zum Clipping verwenden. 
+   In diesem Fall findet das Clipping gegen das View Frustum in Welt - oder **[[Wichtige Koordinatensysteme und Transformationen dazwischen|Kamerakoordinaten]]** statt. Man würde die Sichtpyramide mit seches Ebenengleichungen beschreiben und diese zum Clipping verwenden. 
    Allerdings gibt es effizientere Ansätze.
 2. Nach der Projektionstransformation, aber vor dem Dehomogenisieren.
    Auf diese Weise findet das Clipping gegen das View Frustum in sog. Clipping-Coordinaten statt.
