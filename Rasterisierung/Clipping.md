@@ -1,6 +1,6 @@
 **Clipping** schneidet Linien/Polygone, die außerhalb des gewünschten sichtbaren Bereiches liegen ab. Das kann sehr wichtig für die Effizienz der Darstellung sein, da nichts rasterisiert werden muss, was nicht im sichtbaren Bereich liegt.
 
-Clipping hängt strak zusammen mit den [[Projektionen]] zur Sichtebene.
+Clipping hängt stark zusammen mit den [[Projektionen]] zur Sichtebene.
 
 ### Clipping mit einer [[Projektionen#Perspektivische Projektion|perspektivischen Projektion]] 
 
@@ -42,7 +42,7 @@ Das entsprechende Bit ist gesetzt, wenn sich ein Punkt außerhalb bezüglich ein
 
 Der Algorithmus funktioniert dann wie folgt:
 - Prüfe durch Verodern und Verunden auf trivial accept und trivial reject
-- Falls keines von beiden der Fall, schneide Kante die überschritten Wirt mit der Linie. Wähle dann den Schnittpunkt als neuen Endpunkt der Linie.
+- Falls keines von beiden der Fall, schneide Kante die überschritten wird mit der Linie. Wähle dann den Schnittpunkt als neuen Endpunkt der Linie.
 - Falls der zweite Schnittpunkt ebenfalls außerhalb liegt verfahre hier ebenso.
 
 ## $\alpha$-Clipping
