@@ -1,5 +1,5 @@
 
-OpenGL-Objekte sind **keine** Objekte im OOP-Sinn. OpenGL-Objekte sind Texturen, Geometrie oder Shader.
+[[Grundlegendes|OpenGL]]-Objekte sind **keine** Objekte im OOP-Sinn. [[Grundlegendes|OpenGL]]-Objekte sind Texturen, Geometrie oder Shader.
 
 ![](opengl_objects_management.png)
 

@@ -1,4 +1,4 @@
-Da OpenGL nur in der Lage ist die Grafikkarte anzusprechen benötigt man noch eine Reihe von Hilfsframeworks, um es sinnvoll einsetzen zu können.
+Da [[Grundlegendes|OpenGL]] nur in der Lage ist die Grafikkarte anzusprechen benötigt man noch eine Reihe von Hilfsframeworks, um es sinnvoll einsetzen zu können.
 
 GLUT, GLFW, Qt und SDL bieten:
 - eine Schnittstelle um Fenstersystem des OS

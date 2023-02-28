@@ -1,5 +1,5 @@
 
-Polygone, die sich in derselben Fläche überlagern, führen trotz Tiefenpuffer zu einem Flackern. 
+Polygone, die sich in derselben Fläche überlagern, führen trotz [[Sichtbarkeit und Verdeckung von Objekten|Tiefenpuffer]] zu einem Flackern. 
 Das geschieht wegen Rundungsfehlern. Dieses Flackern nennt man Z-Fighting.
 
 ![](z_fighting.png)

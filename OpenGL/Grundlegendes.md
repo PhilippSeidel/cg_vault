@@ -3,7 +3,7 @@
 
 Es gibt zwei Api-Ebenen:
 - High-level API $\rightarrow$ Grafik-Pipeline
-- Low-level $\rightarrow$ keine höheren Modellierungskonzepte, kein Szenengraph
+- Low-level $\rightarrow$ keine höheren Modellierungskonzepte, kein [[Szenengraph]]
 Im Immediate-Mode bewirk ein Befehl sofortiges rendern.
 
 Außerdem ist OpenGL eine **Zustandmaschine**. Das bedeutet man kann den Zustand der "Grafikmaschine" für einen Rendering-Durchlauf anpassen.
