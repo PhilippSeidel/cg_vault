@@ -24,10 +24,10 @@ Das anschließende Clipping und die Rasterisierung geschehen ohne eigenes Zutun.
 Das Shading findet in **[[Wichtige Koordinatensysteme und Transformationen dazwischen|Kamerakoordinaten]]** statt.
 
 Es gibt folgende Shading-Arten in klassischem OpenGL:
-- Flat-Shading: Das ist Shading pro Vertex/Fragment mit **Dreiecks-Normale**
+- [[Shadingarten|Flat-Shading]]: Das ist Shading pro Vertex/Fragment mit **Dreiecks-Normale**
 - Gouraud-Shading: Das ist Shading pro Vertex mit **gemittelter Normale der anliegenden Dreiecke**
-- Phong-Shading: Das ist Shading pro Fragment mit **interpolierter Normale**
+- [[Phong-Shading]]: Das ist Shading pro Fragment mit **interpolierter Normale**
 
 Alle Shading-Arten verwenden eine Variante [[Phong-Beleuchtungsmodell|Phong-Beleuchtungsmodells]], genannt **Blinn-Phong-Beleuchtungsmodell**. 
-Phong-Shading kann auch andere Beleuchtungsmodelle verwenden. 
-Allerdings wird Phong-Shading in klassischem OpenGL nicht nativ unterstützt, Gouraud-Shading aber schon.
+[[Phong-Shading]] kann auch andere Beleuchtungsmodelle verwenden. 
+Allerdings wird [[Phong-Shading]] in klassischem OpenGL nicht nativ unterstützt, Gouraud-Shading aber schon.
