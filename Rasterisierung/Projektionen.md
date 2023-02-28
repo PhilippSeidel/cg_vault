@@ -25,13 +25,13 @@ Diese Operation ist eine **Projektionstransformation**. Die eigentliche Projekti
 Bei der perspektivischen Projektion ist das View Frustum eine sog. Sichtpyramide. Diese wird ebenfalls auf den Einheitswürfel $[-1,1]^3$ abgebildet.
 
 ![](perspective_projection_transformation.png)
-Diese Abbildung umfasst eine Projektions und eine Normalisierungstransformation.
+Diese Abbildung umfasst eine Projektions und eine [[Transformation von Normalen|Normalisierungstransformation]].
 Nach der Normalisierung geht man von parallelen auf den Einheitswürfel gerichteten Sichtstrahlen aus.
 ![](perspective_projection_transformation_2.png)
 Außerdem zeigt die Z-Achse nun nicht mehr in die negative, sondern in die positive Blickrichtung.
 
-Die Transformation der der z-Werte ist nicht linear. Die Genauigkeit bei Oberflächen die näher bei der Kamera sind ist größer.
+Die Transformation der z-Werte ist nicht linear. Die Genauigkeit bei Oberflächen die näher bei der Kamera sind ist größer.
 Deshalb muss man [[Clipping]] anwenden um die problematischen/ungenauen Randbereiche wegzuschneiden:
 
 ![](perspective_projection_clipping.png)
-Die hier angegebene Tiefe ist die nach Projektions- und Normalisierungstransformation.
+Die hier angegebene Tiefe ist die nach Projektions- und [[Transformation von Normalen|Normalisierungstransformation]].

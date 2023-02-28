@@ -4,7 +4,7 @@ Clipping hängt stark zusammen mit den [[Projektionen]] zur Sichtebene.
 
 ### Clipping mit einer [[Projektionen#Perspektivische Projektion|perspektivischen Projektion]] 
 
-Beim Clipping mit einer perspektivischen Projektion darf das Clipping **nicht** nach der Normalisierungstransformation gemacht werden.
+Beim Clipping mit einer perspektivischen Projektion darf das Clipping **nicht** nach der [[Transformation von Normalen|Normalisierungstransformation]] gemacht werden.
 
 Es gibt mehrere Optionen wann man Clipping anwenden kann:
 
@@ -20,7 +20,7 @@ Es gibt mehrere Optionen wann man Clipping anwenden kann:
 Die Ausgangsbasis sind Kamerakoordinaten.
 Von hier aus nutzt man die Projektionstransformation um in Clipping-Koordinaten zu kommen.
 Dort findet (noch in homogenen Koordinaten) das Clipping statt. Dann wird dehomogenisiert. 
-Dann findet die Normalisierungstranformation in normalisierte Gerätekoordinaten statt:
+Dann findet die [[Transformation von Normalen|Normalisierungstransformation]] in normalisierte Gerätekoordinaten statt:
 
 ![](clipping_coordinate_systems.png)
 
