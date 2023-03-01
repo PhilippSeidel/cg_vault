@@ -7,6 +7,7 @@ Lineare Interpolation ist shit weil man dort Bandeffekte und so bekommt. trikubi
 - **naiver Ansatz:** erzeuge großes 2D/3D-Gitter gefüllt mit Zufallszahlen
 	- Z(x) gibt Werte aus dem Gitter zurück
 	- ist unpraktisch wg. großer Datenmenge und Periodizität
+	- Und unendlich hohen Frequenzen!
 - **eleganter:** erzeuge ein 1D-Array mit Zufallszahlen zwischen 0 und 1
 	- verwende Hashfunktion um darauf zuzugreifen
 	![](hash_index.png)

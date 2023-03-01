@@ -3,14 +3,14 @@ Ein Monitor stellt Farben allerdings nicht in einem linearen Verlauf dar.
 Stattdessen hat jeder Monitor einen charakteristischen Gamma-Wert.
 Die Intensität die ein Monitor darstellt, hängt dann wie folgt von der Helligkeit im linearen Raum ab:
 $$
-I(N) \propto \left(\frac{n}{N}\right)^{\gamma}
+I(n) \propto \left(\frac{n}{N}\right)^{\gamma}
 $$
-Dabei ist $n \in [0,...,N]$ und $I(n)$ die vom Monitor dargestellte Intensität.
+Dabei ist $n \in [0,...,N]$ eine Farbkompontnet wie z.B. RGB und $N=255$ und $I(n)$ die vom Monitor dargestellte Intensität.
 	=> Die dargestellte Intensität ist proportional zur prozentualen Intensität im linearen Raum (n/N) hoch den Gamma-Wert des Bildschirms.
 
 Aus diesem Grund werden die Werte im Framebuffer **direkt vor der Darstellung** angepasst, um die Verzerrung des Monitors auszugleichen.
 
-Um $I(n) \propto a$ die Intensität $I(n)$ richtig  darzustellen wähle $n$ wie folgt: $𝑛 \propto a^{(1/\gamma)}$:
+Um $I(n) \propto a$ die Intensität $I(n)$ richtig  darzustellen wähle $n$ wie folgt: $𝑛 \propto a^{(1/\gamma)}$ (Hier kann man anstatt $\propto$ anscheinend auch einfach gleichsetzen):
 
 ![](gamma_correction.png)
 

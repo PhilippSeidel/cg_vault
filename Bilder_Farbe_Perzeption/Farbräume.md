@@ -6,7 +6,7 @@ Koordinatensysteme zur beschreibung von Farben.
 **G** : Grün
 **B** : Blau
 ![](rgb.png)
-
+$+$ RGB ist additiv
 
 
 ## CMY(K) - Farbraum
@@ -18,6 +18,7 @@ Koordinatensysteme zur beschreibung von Farben.
 ![](cmy2.png)
 
 #### CMYK
+- Ist subtraktiv
 - Wird für Drucken verwendet, damit Schwarz (K) nicht gemischt werden muss nimmt man stattdessen schwarze Tinte und braucht dann nen extra Wert K
 - K = min(C, M, Y) 
 - C' = C - K
