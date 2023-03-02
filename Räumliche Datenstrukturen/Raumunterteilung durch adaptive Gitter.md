@@ -6,5 +6,5 @@
 --> adaptive Unterteilung erlaubt große Schritte im leeren Raum, feine Unterteilung nur dort wo geometrie ist
 #### Traversierung
 - Verweise nur in Blättern auf Primitive
-- Prüfe Schnitt mit Wurzel, falls Schnitt weiter mit Kindknoten
+- Prüfe Schnitt mit Wurzel, falls Schnitt, weiter mit Kindknoten
 - Überprüfe alle Kindknoten von vorne nach hinten
