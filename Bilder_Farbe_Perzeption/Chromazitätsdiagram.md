@@ -9,7 +9,7 @@ Die Spektralfarben befinden sich entlang der Randkurve und entsprechen monochrom
 
 ![](chromacity_diagram_read.png)
 
-### Ablesen des Gamuts eines Augabegerätes
+### Ablesen des Gamuts eines Ausgabegerätes
 
 Der Gamut eines Ausgabegerätes ist die Menge aller Farben, die das Ausgabegerät darstellen kann.
 Dieser wird wie folgt durch drei Farben (bzw. drei Wellenlängen im Spektrum) festgelegt:

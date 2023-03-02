@@ -18,7 +18,7 @@ Das Alphabet wird um die zwei Symbole "[" und "]" erweitert. Eckige klammer auf 
 
 
 ### In der Praxis
-Rein Algorithmische erzeugung ist schwer und erfordert viel Erfahrung. Deshlab nutzt man oft parametrisierte, stochastische Ersetzungsregeln.
+Rein Algorithmische erzeugung ist schwer und erfordert viel Erfahrung. Deshalb nutzt man oft parametrisierte, stochastische Ersetzungsregeln.
 
 
 ### Stochastische/Parametrisierte L-Systeme

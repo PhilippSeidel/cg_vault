@@ -4,7 +4,7 @@ Verfolge Strahl durch jeden Pixel des Bildes
 - Erzeugung der Sichtstrahlen ([[Ray generation]])
 - Schnittberechnung ([[Ray intersecion]]) 
 - Schattierung und Beleuchtungsberechnung ([[Shading]])
-- [[Sekundärstrahlen]] für Spiegelung und Tansmission
+- [[Sekundärstrahlen]] für Spiegelung und Transmission
 
 
 
